@@ -30,4 +30,4 @@ $weather->getCityIdByName('Львов');
 $weather->getCityIdByName('Чернигов');
 
 $kievId = $weather->getCityIdByName('Киев');
-echo $weather->getWeather($kievId);
+//echo $weather->getWeather($kievId);
